@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>我的网页</title><link>https://lookmeplus.github.io</link><description>文件分享，制作将在上面发布,QQ:2069084329,EMAIL:2069084329@QQ.COM</description><copyright>我的网页</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png</url><title>avatar</title><link>https://lookmeplus.github.io</link></image><lastBuildDate>Sat, 27 Jul 2024 07:52:11 +0000</lastBuildDate><managingEditor>我的网页</managingEditor><ttl>60</ttl><webMaster>我的网页</webMaster><item><title>软件下载-直链</title><link>https://lookmeplus.github.io/post/ruan-jian-xia-zai---zhi-lian.html</link><description># tip:这里贴官网是因为链接可能失效&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>我的网页</title><link>https://lookmeplus.github.io</link><description>文件分享，制作将在上面发布,QQ:2069084329,EMAIL:2069084329@QQ.COM</description><copyright>我的网页</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png</url><title>avatar</title><link>https://lookmeplus.github.io</link></image><lastBuildDate>Sat, 27 Jul 2024 07:54:13 +0000</lastBuildDate><managingEditor>我的网页</managingEditor><ttl>60</ttl><webMaster>我的网页</webMaster><item><title>软件下载-直链</title><link>https://lookmeplus.github.io/post/ruan-jian-xia-zai---zhi-lian.html</link><description># tip:这里贴官网是因为链接可能失效&#13;
 # 软件支持表格&#13;
 |APP NAMES| Android SUPPORT|IOS SUPPORT|MAC SUPPORT| LINUX SUPPORT|windows support|Official website|&#13;
 |-----------|----------   |-----------------------     |--------------      |---------------------|----------------|----------|&#13;
@@ -11,7 +11,7 @@
 |6.minecraft(javA)|HMCLPE or FCL|can not on appstore download|HMCL|HMCL|HMCL |PCL|PCL(BILIBILI):https://space.bilibili.com/11343203/dynamic                HMCL:https://hmcl.huangyuhui.net|&#13;
 |WSA|no support|no support|no support|no support|支持Windows10 22H2和Windows11所有版本|Not available at the moment|&#13;
 # 软件下载-直链&#13;
-## STEP1:QQ&#13;
+## 1:QQ&#13;
 ## 官网[im.qq.com](im.qq.com)&#13;
 ## **Android**&#13;
 ### *X64*&#13;
@@ -57,7 +57,7 @@
 ### *MIPS*&#13;
 #### *deb*&#13;
 [download](https://dldir1.qq.com/qqfile/qq/QQNT/Linux/QQ_3.2.9_240617_mips64el_01.deb)&#13;
-## STEP:2微信&#13;
+## 2:微信&#13;
 ## 官网：[weixin.qq.com](weixin.qq.com)&#13;
 ### **Android**&#13;
 #### *X64*&#13;
@@ -76,12 +76,12 @@
 [download to appstore](https://itunes.apple.com/cn/app/wechat/id836500024?mt=12)&#13;
 ###  微信传输助手网页&#13;
 [点击前往](https://filehelper.weixin.qq.com)&#13;
-## 微信输入法&#13;
+## 3.微信输入法&#13;
 #### windows[download](https://download.z.weixin.qq.com/app/win/WeTypeSetup_1.2.1.611_3.exe)&#13;
 #### mac[download](https://download.z.weixin.qq.com/app/mac/1.2.1/WeTypeInstaller_1.2.1_372.zip)&#13;
 #### Iphone[app store download](https://itunes.apple.com/cn/app/1618175312)&#13;
 #### android[download apk file](https://download.z.weixin.qq.com/app/android/1.3.1/wxkb_806_32.apk)&#13;
-## 钉钉&#13;
+## 4.钉钉&#13;
 ### Windows&#13;
 [download](https://dtapp-pub.dingtalk.com/dingtalk-desktop/win_downloader/dingtalk_downloader.exe)&#13;
 ### mac&#13;
@@ -96,11 +96,13 @@
 #### arm64[download](https://dtapp-pub.dingtalk.com/dingtalk-desktop/xc_dingtalk_update/linux_deb/Release/com.alibabainc.dingtalk_7.5.20.40605_arm64.deb)&#13;
 #### MIPS[download](https://dtapp-pub.dingtalk.com/dingtalk-desktop/xc_dingtalk_update/linux_deb/Release/com.alibabainc.dingtalk_7.5.20.40605_mips64el.deb)&#13;
 #### loongarch64[download](https://dtapp-pub.dingtalk.com/dingtalk-desktop/xc_dingtalk_update/linux_deb/Release/com.alibabainc.dingtalk_7.5.20.40605_loongarch64.deb)&#13;
-## 快手&#13;
+## 5.快手&#13;
 ### IOS&#13;
 [download](apps.apple.com/app/apple-store/id440948110?ct=&amp;pt=572643)&#13;
 ### ANDROId&#13;
 [download](https://js.a.kspkg.com/kos/nlav10814/kwai-android-generic-gifmakerrelease-10.10.30.28545_x32_1f14b3.apk)&#13;
+### web verision&#13;
+[get to](https://kuaishou.com)&#13;
 ## MC(JAVA)&#13;
 ### android&#13;
 [github](https://github.com/HMCL-dev/HMCL-PE/releases)&#13;
