@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>我的网页</title><link>https://lookmeplus.github.io</link><description>文件分享，制作将在上面发布,QQ:2069084329,EMAIL:2069084329@QQ.COM</description><copyright>我的网页</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png</url><title>avatar</title><link>https://lookmeplus.github.io</link></image><lastBuildDate>Sat, 27 Jul 2024 08:33:53 +0000</lastBuildDate><managingEditor>我的网页</managingEditor><ttl>60</ttl><webMaster>我的网页</webMaster><item><title>软件下载-直链</title><link>https://lookmeplus.github.io/post/ruan-jian-xia-zai---zhi-lian.html</link><description># 软件在各个系统的支持表格&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>我的网页</title><link>https://lookmeplus.github.io</link><description>文件分享，制作将在上面发布,QQ:2069084329,EMAIL:2069084329@QQ.COM</description><copyright>我的网页</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png</url><title>avatar</title><link>https://lookmeplus.github.io</link></image><lastBuildDate>Sat, 27 Jul 2024 08:44:29 +0000</lastBuildDate><managingEditor>我的网页</managingEditor><ttl>60</ttl><webMaster>我的网页</webMaster><item><title>软件下载-直链</title><link>https://lookmeplus.github.io/post/ruan-jian-xia-zai---zhi-lian.html</link><description># 软件在各个系统的支持表格&#13;
 |APP NAMES| Android SUPPORT|IOS SUPPORT|MAC SUPPORT| LINUX SUPPORT|windows support|Official website|&#13;
 |-----------|----------   |-----------------------     |--------------      |---------------------|----------------|----------|&#13;
 |1.QQ| support|support|dmg file or appstore|support x86/64 or arm64 and loong arch and MIPS|QQNT support Windows7及以上的Windows 怀旧版支持XP|im.qq.com|&#13;
@@ -9,7 +9,8 @@
 |5.快手|support|support|Web version|Web version|Web version|kuaishou.com|&#13;
 |6.minecraft(javA)|HMCLPE or FCL|can not on appstore download|HMCL|HMCL|HMCL |PCL|PCL(BILIBILI):https://space.bilibili.com/11343203/dynamic                HMCL:https://hmcl.huangyuhui.net|&#13;
 |WSA|no support|no support|no support|no support|支持Windows10 22H2和Windows11所有版本|Not available at the moment|&#13;
-|minecarft-java server|need Termux|no support|need java|need java|need java|&#13;
+|minecarft-java server|need Termux|no support|need java|need java|need java|https://www.minecraft.net/zh-hans/download/server|&#13;
+|potplayer|no support|no support|no support|no support|support|potplayer.tv|&#13;
 # 软件下载-直链&#13;
 ## 1:QQ&#13;
 ## 官网[im.qq.com](im.qq.com)&#13;
@@ -125,6 +126,12 @@
 `pkg install openjdk-17 -y &amp;&amp; mkdir ser &amp;&amp; cd ser &amp;&amp; wget 'https://piston-data.mojang.com/v1/objects/450698d1863ab5180c25d7c804ef0fe6369dd1ba/server.jar' -o server.jar &amp;&amp; java -Xmx1024M -Xms1024M -jar server.jar nogui`&#13;
 #### Next Use&#13;
 `cd ser &amp;&amp; java -Xmx1024M -Xms1024M -jar server.jar nogui`&#13;
+## potplayer&#13;
+### windows&#13;
+#### x86&#13;
+[download](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup.exe)&#13;
+#### x64&#13;
+[download](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe)&#13;
 &#13;
 &#13;
 。</description><guid isPermaLink="true">https://lookmeplus.github.io/post/ruan-jian-xia-zai---zhi-lian.html</guid><pubDate>Wed, 24 Jul 2024 10:51:54 +0000</pubDate></item><item><title>文件分享</title><link>https://lookmeplus.github.io/post/wen-jian-fen-xiang.html</link><description>lsposed-zygisk：https://www.123pan.com/s/QfmKVv-5SAhh.html&#13;
