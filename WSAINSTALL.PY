@@ -12,14 +12,13 @@ def ask():
     question = "Do you want to install WSA?"
     if messagebox.askyesno("Question", question):
         installgithub()
-def i123q():
-    question = "You Selected node is 123 cloud storage.Do you want to install WSA?"
+def ctq():
+    question = "You Selected node is microsoft.Do you want to install WSA?"
     if messagebox.askyesno("Question", question):
-        i123()
-def i123():
+        ict()
+def ict():
     messagebox.showinfo("tips", "During the installation process, it may suddenly become unresponsive.")
-    messagebox.showinfo("tips", "the file is 1,400,000,000 bytes, please wait patiently")
-    command = "wget 'https://116-142-255-139.pd1.cjjd19.com:30443/download-cdn.cjjd19.com/123-578/50b2d7ce/1813124637-0/50b2d7ce9cebddfff8c7b4137db27242/c-m49?v=5&t=1723107138&s=172310713806bd6dbd004c7a81f312aec278c0bac9&r=4GUAK8&bzc=1&bzs=1812769958&filename=WSA.Msixbundle&x-mf-biz-cid=683162b3-1ab1-4b3e-9bb6-cc136e7a1ca7-6eaa77&auto_redirect=0&cache_type=1&xmfcid=697a72b5-8134-4807-8498-26857043191c-1-9eed82220' -o 'C:\WSA\WSA.Msixbundle'"
+    command = "Start-BitsTransfer -Source 'http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/b997a699-594b-43db-ac2e-19a4c45b6af2?P1=1723214244&P2=404&P3=2&P4=h9JnFvLf5xP%2febASpNX4VAzV%2fzDoLZDlG7s4v5t1WAIEz4W0NFhkj1%2bQaYooAQ2eyPxZj5BNaka7sChQro1Nww%3d%3d' -Destination 'C:\WSA\WSA.Msixbundle'"
     result = subprocess.run(['powershell', '-Command', command], capture_output=True, text=True)
 
     messagebox.showinfo("success", "Downloaded successfully")
@@ -52,7 +51,7 @@ label = tk.Label(window, text="The program by lookmeplus", font=("Arial", 8), wi
 label.pack()
 close_button = tk.Button(window, text="Install WSA NOW!(Github)", font=("Arial", 8), width=30, height=2, command=ask)
 close_button.pack()
-close_button =tk.Button(window, text="Install WSA NOW!(123Cloud storage)", font=("Arial", 8), width=30, height=2, command=i123q)
+close_button =tk.Button(window, text="Install WSA NOW!(microsoft)", font=("Arial", 8), width=30, height=2, command=ctq)
 close_button.pack()
 
 window.mainloop()
