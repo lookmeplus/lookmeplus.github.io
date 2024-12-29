@@ -5,6 +5,7 @@
 |2|哔哩哔哩(小破站)|上海宽娱数码科技有限公司|123云盘（自制便携版）：<a href="https://www.123684.com/s/QfmKVv-67Qhh">链接直达</a>&官网下载：<a href="app.bilibili.com">链接直达</a>|**有事请看下面Q&A专区**|
 |3|Java（Jdk17）|Microsoft|123云盘：<a href="https://www.123684.com/s/QfmKVv-y7Qhh">链接直达</a>&备用区：<a href="https://www.123865.com/s/QfmKVv-y7Qhh">链接直达</a>|**有事请看下面Q&A专区**|
 |4|隐藏文件小工具|哔哩哔哩-哦额额额的鹅鹅鹅|123云盘：<a href="https://www.123684.com/s/QfmKVv-gbQhh">链接直达</a>&备用链接:<a href="https://www.123865.com/s/QfmKVv-gbQhh">链接直达</a>|**有事请看下面Q&A专区**|
+|5|VMware Workstation|VMware|123云盘：<a href="https://www.123684.com/s/QfmKVv-FbQhh">主链接</a>&<a href="https://www.123865.com/s/QfmKVv-FbQhh">副链接</a>分卷版-123云<a href="https://www.123684.com/s/QfmKVv-YbQhh">主链接</a>&<a href="https://www.123865.com/s/QfmKVv-YbQhh">副链接</a>|没有网络服务|
 
 # Q&A（Quesation and Answer）
 ## Q1 为什么夸克云盘下载不了
