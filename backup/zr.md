@@ -10,7 +10,7 @@
 >前提：必须绑定手机号
 >>该网站会点赞，关注，大拇指等操作，推荐小号执行
 >>如果你是大号，推荐在微信的发现→视频号→用户图标→齿轮→不让他(她)看我❤️的视频中，把所有好友勾选上
-## 注册地址https://www.duomini.co/register/58b611或<a href="https://www.duomini.co/register/58b611">点我直达</a>
+## 注册地址https://www.duomini.co/register/58b611 或<a href="https://www.duomini.co/register/58b611">点我直达</a>
 # 1.2第三方APP挂机赚钱
 >使用软件：手机宝和网心云
 >>分工：手机宝：负责挂机，赚钱。网心云：负责提现
